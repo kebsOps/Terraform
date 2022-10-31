@@ -24,9 +24,9 @@ keypair = "devops"
 # Ensure to change this to your acccount number
 account_no = "649152850206"
 
-db-username = "kebe"
+master-username = "kebe"
 
-db-password = "devops"
+master-password = "devops"
 
 
 tags = {
